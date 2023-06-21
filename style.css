@@ -1,0 +1,46 @@
+main {
+    font-family: 'Roboto Mono', monospace;
+}
+
+h1 {
+    color: #e80000;
+    padding-left: 37.5%;
+}
+
+h2 {
+    display: inline-block;
+    background-color: #f6f1e8;
+    border: black 5px solid;
+    margin: 0;
+    padding: 0 10%;
+}
+
+h3 {
+    padding-left:20px;
+    background-color:#9cb9e3;
+}
+
+.market-aisles {
+    padding-left: 42%;
+}
+
+.food-lists {
+    display: inline-block;
+    background-color: #d9d9d9;
+    padding: 25px 8%;
+    margin: 15px 2.5%;
+}
+
+.jack, .hall{
+    width: 25%;
+    position: relative;
+    left: 70%;
+    margin-top: -15%;
+    padding: 10px 10px 15% 10px;
+    background-color:aliceblue;
+}
+
+h5 {
+    margin-left: 40%;
+    padding-bottom: 5%;
+}
